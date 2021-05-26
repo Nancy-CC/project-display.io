@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-size: 20px;
+}
+
+#font-bold {
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+}
+
+.jumbotron {
+    margin: 5%;
+    border-radius: 5px;
+}
